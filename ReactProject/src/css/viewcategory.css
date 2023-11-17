@@ -1,0 +1,7 @@
+#customertable{
+    border: 2px solid black;
+}
+tr,td,th{
+    border: 2px solid black;
+    
+}

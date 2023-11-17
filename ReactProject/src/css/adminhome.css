@@ -1,0 +1,56 @@
+#drop{
+    margin-left: 20px;
+}
+
+
+*{
+background-color: purple;
+}
+form{
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: 30px;
+    background-color: lightgreen;
+    width: 200px;
+}
+label{
+    background-color: lightskyblue;
+}
+input{
+    background-color: lightslategray;
+}
+#f1{
+    margin-right: 500px;
+    padding: 30px;
+    width: 250px;
+}
+#f2{
+    margin-right: 500px;
+    width: 250px;
+}
+table{
+    margin-top: 150px;
+    margin-left: 200px;
+}
+#view{
+    margin-left: 30px;
+    text-decoration: none;
+    padding: 20px;
+    background-color: limegreen;
+    border-radius: 10px;
+}
+#viewreview{
+    margin-left: 30px;
+    padding: 20px;
+    background-color: limegreen;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: .5s;
+}
+#logad{
+    margin-left: 10px;
+    background-color: limegreen;
+    padding: 20px;
+    border-radius: 10px;
+    color: blue;
+}

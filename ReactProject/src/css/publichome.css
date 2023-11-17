@@ -1,0 +1,15 @@
+#public{
+    margin-left: 540px;
+}
+#publiclnk{
+    margin-left: 30px;
+    padding: 10px;
+    background-color: violet;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+#loginfrm{
+background-color: cyan;
+width: 250px;
+}

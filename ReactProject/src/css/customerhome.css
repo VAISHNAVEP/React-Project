@@ -1,0 +1,48 @@
+#customer{
+    margin-left: 250px;
+}
+#link{
+    text-decoration: none;
+    margin-left: 50px;
+    padding: 10px;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+link a :hover{
+    background-color: limegreen;
+}
+#orderform{
+    padding: 40px;
+    width: 280px;
+    background-color: navy;
+}
+#orderbutton{
+    background-color: darkslategray;
+}
+#ordersubmitbutton{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    background-color: darkorchid;
+    font-weight: 700;
+    box-shadow: 5px 5px 5px black;
+}
+#reviewbutton{
+    background-color: navy;
+}
+#reviewfrm{
+    background-color: darkmagenta;
+    width: 250px;
+    border-radius: 10px;
+}
+#reviewsubmit{
+    margin-left: 50px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px black;
+    font-weight: 700;
+    background-color: indigo;
+    border-radius: 10px;
+
+}
